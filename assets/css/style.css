@@ -163,11 +163,12 @@ nav ul li a:hover {
 @media screen and (max-width: 576px) {
   .hero-container {
     display: flex;
-    flex-direction: column;
+    flex-direction: column-reverse;
     justify-content: center;
     text-align: center;
     align-items: center;
     padding: 20px 0;
+    gap: 50px;
   }
 }
 
