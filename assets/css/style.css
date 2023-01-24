@@ -42,7 +42,7 @@ nav {
 
 nav ul {
   display: flex;
-  width: 25%;
+  width: 30%;
   list-style: none;
   justify-content: space-between;
 }
